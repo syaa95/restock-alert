@@ -1,4 +1,4 @@
-# NMIXX 补货提醒
+# 补货提醒
 
 监控 [Strange Muse (Strange Ver.) Vinyl](https://nmixxshopus.com/products/strange-muse-strange-ver-vinyl)。云端任务每 5 分钟检查一次，每轮检查 12 次后自动启动下一轮；保留 GitHub 定时触发作为补充。任务交接可能有延迟，不能保证抢到库存。
 
